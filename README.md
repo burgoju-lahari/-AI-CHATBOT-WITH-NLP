@@ -19,7 +19,7 @@ This is a beginner-level chatbot project developed as part of an internship task
 
 ### Tools and Platform Used:
 - **Platform**: Windows (Command Line Interface)
-- **Language**: Python 3.7
+- **Language**: Python 
 - **Editor**: Visual Studio Code / Notepad++ (or any preferred Python editor)
 
 ### Libraries Used:

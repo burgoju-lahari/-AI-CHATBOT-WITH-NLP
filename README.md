@@ -1,7 +1,5 @@
 # -AI-CHATBOT-WITH-NLP
 
-# AUTOMATED-REPORT-GENERATION
-
 *COMPANY* : CODTECH IT SOLUTIONS
 
 *NAME* : Burgoju Lahari
@@ -38,5 +36,8 @@ It also handles unrecognized inputs by giving fallback replies, encouraging the 
 The chatbot uses a simple rule-based system and maintains the context of the last topic discussed to allow follow-up questions.
 
 *OUTPUT:*
+
+![Image](https://github.com/user-attachments/assets/2ca4fff0-ed02-4e71-91c4-10a0e7c212bb)
+
 
 
